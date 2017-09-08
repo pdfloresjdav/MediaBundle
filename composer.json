@@ -1,5 +1,5 @@
 {
-    "name": "vlabs/media-bundle",
+    "name": "pdfloresjdav/media-bundle",
     "type": "symfony-bundle",
     "description": "Form, database and filesystem abstraction for files",
     "keywords": ["files", "upload", "media"],
