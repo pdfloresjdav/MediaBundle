@@ -1,7 +1,7 @@
 {
     "name": "pdfloresjdav/media-bundle",
     "type": "symfony-bundle",
-    "description": "Form, database and filesystem abstraction for files",
+    "description": "Form, database and filesystem abstraction for files ",
     "keywords": ["files", "upload", "media"],
     "license": "MIT",
     "minimum-stability": "dev",
